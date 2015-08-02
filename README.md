@@ -1,4 +1,4 @@
-# PHP 之道
+# Laravel doc for SK-Media
 
 [在线地址](http://sk-media.github.io/laravel-the-hard-way/)
 
