@@ -26,4 +26,17 @@
 
 ## 为什么会有这个 repo
 
-Laravel Framework 是我们需要新学习的一个全栈 Web 框架，这里是大家一起总结、积累的地方。
+最近在 PHP 社区中有大量的讨论， 对于 PHP 的新手来说，缺乏足够并且可靠的学习资源。这个 repo 就是为了解决这个问题。
+
+## 作者
+
+我的名字是 [Josh Lockhart](http://twitter.com/codeguy)。我是 [Slim Framework](http://www.slimframework.com/) 的作者并且在 [New Media Campaigns](http://www.newmediacampaigns.com/) 工作。
+
+### 合作伙伴
+
+* [Kris Jordan](http://krisjordan.com/)
+* [Phil Sturgeon](http://philsturgeon.co.uk/)
+
+## License
+
+[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
