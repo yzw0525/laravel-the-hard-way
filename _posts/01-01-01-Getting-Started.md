@@ -1,7 +1,7 @@
 ---
-title: 入门指南
-anchor: getting_started
+title: 基础环境搭建
+anchor: huan_jing
 ---
 
-# 入门指南 {#getting_started_title}
+# 基础环境搭建 {#huan_jing_title}
 
