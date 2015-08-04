@@ -3,7 +3,7 @@ title:  数据库
 anchor: databases
 ---
 
-# 数据库 {#databases_title}
+# 数据库111111111111111111111 {#databases_title}
 
 绝大多数时候你的 PHP 程序都需要使用数据库来长久地保存数据。这时你有一些不同的选择可以来连接并与数据库进行交互。在 **PHP 5.1.0 之前**，我们推荐的方式是使用例如 [mysqli]，[pgsql]，[mssql] 等原生驱动。
 
