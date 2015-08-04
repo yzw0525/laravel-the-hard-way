@@ -18,3 +18,11 @@ anchor:  use_the_current_stable_version
 > ssh-keygen -t rsa -C "your_email@example.com"
 {% endhighlight %}
 
+
+自动生成的文件
+
+{% highlight console %}
+> id_rsa  id_rsa.pub  known_hos
+{% endhighlight %}
+
+进入  id_rsa.pub  目录粘贴密匙到 github 账户的 点击菜单栏的 SSH key 进入页面添加 Add SSH Key 中 
