@@ -24,4 +24,4 @@ anchor:  use_the_current_stable_version
 > id_rsa  id_rsa.pub  known_hosts
 {% endhighlight % }
 
-进入 id_rsa.pub 目录粘贴密匙到 github账户的 点击菜单栏的 SSH key 进入页面添加Add SSH Key中 
+进入  id_rsa.pub  目录粘贴密匙到 github 账户的 点击菜单栏的 SSH key 进入页面添加 Add SSH Key 中 
