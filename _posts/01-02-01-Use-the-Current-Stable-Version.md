@@ -13,6 +13,7 @@ anchor:  use_the_current_stable_version
 {% endhighlight %}
 
 创建一个 [SSH key] 
+
 {% highlight console %}
 > ssh-keygen -t rsa -C "your_email@example.com"
 {% endhighlight %}
